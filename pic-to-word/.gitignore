@@ -1,4 +1,4 @@
-venv
-pics
-*.docx
-tmp.jpg
+pic_to_word/venv
+pic_to_word/pics
+pic_to_word/*.docx
+pic_to_word/tmp.jpg
